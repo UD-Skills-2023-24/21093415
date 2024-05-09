@@ -1,0 +1,85 @@
+{
+  "folder": [
+    {
+      "paragraph": "Exploring the depths of fate",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "model.obj",
+      "image_n": 15,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "Tragedy strikes in silent whispers",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 20,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "Unseen forces shaping destiny",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 25,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "Echoes of a forgotten past",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 30,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "Whispers of betrayal",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 35,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "A family torn by vengeance",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 10,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "Loyalty and destiny intertwined",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 18,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "The fall of a dynasty",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 40,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    },
+    {
+      "paragraph": "The echo of ancient wrongs",
+      "filmID": "Electra.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 22,
+      "time": 100,
+      "film_path": "Electra Emociones ligadas al destino.mp4"
+    }
+  ]
+}
